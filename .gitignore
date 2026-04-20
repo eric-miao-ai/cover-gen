@@ -1,0 +1,5 @@
+# Generated during local testing
+prompts/
+
+# macOS
+.DS_Store

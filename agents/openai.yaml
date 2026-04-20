@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cover Gen"
+  short_description: "从内容中提取角色场景并生成统一卡通配图"
+  default_prompt: "Use $cover-gen to turn this post or article into a cartoon-style cover illustration prompt."
+
+policy:
+  allow_implicit_invocation: true
